@@ -1,2 +1,5 @@
-# uciml_creditscore
-Behavioral Credit Score
+# UCI ML - Taiwan Credit Card Usage
+Behavioral Credit Score - Aris Fernando
+
+
+All respective codes and slides are on my own.
